@@ -1,3 +1,4 @@
 Makefile
 *.o
 *.so
+example_wrap.c
